@@ -1,7 +1,7 @@
 <h1 align="left">🖖 Hi, my name is Yuri Hartmann and i am a Python developer</h1>
 
 ###
-<h4 align="left">- 👨‍💻 I’m currently working on Serasa<br>- 🌱 I’m currently learning Python</h4>
+<h4 align="left">- 👨‍💻 I’m currently working on Serasa with Python<br>- 🌱 I’m currently learning Node and Frontend</h4>
 
 ###
 <h5 align="center">Redes Sociais</h5>
