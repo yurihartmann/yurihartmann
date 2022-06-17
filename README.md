@@ -31,9 +31,6 @@
 </div>
 
 ###
-<img href="https://raw.githubusercontent.com/yurihartmann/yurihartmann/blob/output/snake.svg" alt="Snake animation" />
-
-###
 <div align="center">
   <img src="https://profile-counter.glitch.me/yurihartmann/count.svg?"  />
 </div>
